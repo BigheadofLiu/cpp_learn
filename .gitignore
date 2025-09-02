@@ -16,5 +16,6 @@
 
 # 忽略构建输出目录（你可能叫 build/ 或者 bin/）
 output/
-
+cmake-build-debug/
+cmake-build-release/
 
