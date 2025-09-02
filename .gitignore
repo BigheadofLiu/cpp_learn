@@ -1,0 +1,20 @@
+# 忽略 IDE 配置目录
+.idea/
+.vs/
+.vscode/
+
+# 忽略编译生成的可执行文件
+*.exe
+
+# 忽略 Qt/C++ 项目常见的中间文件
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+
+# 忽略构建输出目录（你可能叫 build/ 或者 bin/）
+output/
+
+
