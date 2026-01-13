@@ -24,7 +24,6 @@ void test01()
     cout<<v.capacity()<<endl;
     cout<<v.size()<<endl;
 	cout << "num:" << num << endl;
-    
 }
 
 int main() {

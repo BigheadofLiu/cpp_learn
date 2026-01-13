@@ -22,7 +22,6 @@ void test01(){
     string s1="wdnmdcnm";
     s1[2]='c';
     cout<<s1<<endl;
-
     s1.at(2)='x';
     cout<<s1<<endl;
 

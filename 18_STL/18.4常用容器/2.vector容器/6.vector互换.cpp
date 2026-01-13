@@ -20,6 +20,7 @@ int main(){
     cout<<endl;
     for(int i=0;i<10;i++){
         cout<<v2.at(i)<<" ";
+        
     }
     cout<<endl;
     v1.swap(v2);

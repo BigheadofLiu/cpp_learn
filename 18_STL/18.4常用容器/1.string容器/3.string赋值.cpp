@@ -27,4 +27,5 @@ string s6;s6.assign(s5);
 cout<<s6<<endl;
 string s7;s7.assign(5,'c');
 cout<<s7<<endl;
+
 }

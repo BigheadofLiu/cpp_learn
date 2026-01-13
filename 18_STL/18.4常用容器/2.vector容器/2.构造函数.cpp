@@ -19,7 +19,6 @@ int main(){
     for (int i = 0; i < 10; i++)
     {
         v2.push_back(i);
-        
     }
     print_vector(v2);
     vector<int> v3(v2.begin(),v2.end());//2.有参构造1

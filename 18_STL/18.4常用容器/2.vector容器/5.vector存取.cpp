@@ -23,6 +23,7 @@ int main(){
     //2.
     for(int i=0;i<10;i++){
         cout<<v1[i]<<" ";
+        
     }
     cout<<endl;
     //3.获取首尾

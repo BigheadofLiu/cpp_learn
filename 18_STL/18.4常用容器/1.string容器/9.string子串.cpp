@@ -10,6 +10,7 @@ int main(){
     cout<<"name:"<<name<<endl;
     // cout<<"wdnmd"<<endl;
 
+    
     int pos=s1.find("@");
     cout<<pos<<endl;
     string mail=s1.substr(pos);

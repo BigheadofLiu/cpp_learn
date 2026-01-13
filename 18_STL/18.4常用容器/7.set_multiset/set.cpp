@@ -19,7 +19,6 @@ erase(elem)
 size()
 empty()
 swap(set)
-
 4.查找和统计
 fing(key)  //返回值为迭代器类型 set<int>::iterator pos=s1.find(30) 如果未找到则返回s1.end()
 cout(key) 结果是0或1

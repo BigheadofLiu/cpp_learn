@@ -51,7 +51,6 @@ void print_map(map<int,int,mycompare>& m){
     for(map<int,int,mycompare>::iterator it=m.begin();it!=m.end();it++){
         cout<<it->first<<" "<<it->second<<endl;
     }
-    
 }
 void test05(){
     map<int,int,mycompare> m1;

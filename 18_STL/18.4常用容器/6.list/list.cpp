@@ -18,7 +18,6 @@ size()
 empty()
 resize(num)
 resize(num,elem)
-
 4.插入和删除
 push_back(elem) 尾插
 pop_back() //尾删

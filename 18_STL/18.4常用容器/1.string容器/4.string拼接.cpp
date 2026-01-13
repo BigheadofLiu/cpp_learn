@@ -37,4 +37,5 @@ int main(){
     string s8;
     s8.append("hello world!",2,5);  //字符串下标从0开始计数
     cout<<s8<<endl;
+    
 }

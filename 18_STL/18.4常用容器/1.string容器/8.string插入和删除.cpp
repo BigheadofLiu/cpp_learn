@@ -11,3 +11,4 @@ cout<<s1<<endl;
 s1.erase(1,5);
 cout<<s1<<endl;
 }
+

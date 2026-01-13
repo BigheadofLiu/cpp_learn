@@ -19,7 +19,6 @@
         push_front(elem)
         pop_back()
         pop_front()
-
         insert(pos,elem)
         insert(pos,n,elem)
         insert(pos,beg,end)

@@ -14,10 +14,10 @@ class player{
     int score ;
     string name;
 };
-void creat_person(vector<player>& v){  //选手使用vector生成
+void creat_person(vector<player>& v){  //选锟斤拷使锟斤拷vector锟斤拷锟斤拷
     string nameNeed="ABCED";
     for(int i=0;i<nameNeed.size();i++){
-        string name="选手";
+        string name="选锟斤拷";
         name+=nameNeed[i];
         int scoere=0;
         player p(scoere,name);
@@ -45,7 +45,7 @@ void set_score(vector<player>& v){
 }
 void print_player(vector<player>& v){
     for (vector<player>::iterator it = v.begin(); it !=v.end(); it++){
-        cout<<"名字："<<it->name<<" "<<"分数:"<<it->score<<endl;
+        cout<<"锟斤拷锟街ｏ拷"<<it->name<<" "<<"锟斤拷锟斤拷:"<<it->score<<endl;
     }
 }
 int main(){
@@ -54,3 +54,4 @@ int main(){
     set_score(v1);
     print_player(v1);
 }
+

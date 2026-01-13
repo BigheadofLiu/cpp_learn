@@ -18,7 +18,6 @@ void test(){
     string str4(str3); //string str4=str3;
     
     string str5(10,'d');
-
     cout<<str1<<" "<<str2<<" "<<str3<<" "<<str4<<" "<<str5<<endl;
 }
 int main(){

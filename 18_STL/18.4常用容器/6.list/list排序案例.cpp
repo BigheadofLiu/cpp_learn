@@ -21,6 +21,7 @@ void print_list(const list<person> &L){  //打印
     }
     cout<<endl;
 }
+
 bool sort_list(person& p1, person& p2){
     if(p1.age==p2.age){
         return p1.height>p2.height; //如果年龄相同 按照升高降序排列

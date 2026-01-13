@@ -37,7 +37,6 @@ void Set_Group(vector<Worker>& v,multimap<int,Worker>& m){
         int Part_Id=rand()%3;
         // cout<<"11111"<<endl;
         m.insert(make_pair(Part_Id,*i));
-        /* code */
     }  
 }
 void Print_Worker_Group(multimap<int,Worker>& m){

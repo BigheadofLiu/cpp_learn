@@ -1,4 +1,4 @@
-/*×Ö·û´®±È½Ï*/
+/*ï¿½Ö·ï¿½ï¿½ï¿½ï¿½È½ï¿½*/
 #include <iostream>
 #include <string>
 using namespace std;
@@ -16,14 +16,13 @@ int main()
     if(ret==0){
         cout<<"="<<endl;
     }else{
-        cout<<"²»ÏàµÈ"<<endl;
+        cout<<"ï¿½ï¿½ï¿½ï¿½ï¿½"<<endl;
     }
-    
     int ret1=s1.compare("hello");
     if(ret1==0){
         cout<<"="<<endl;
     }else{
-        cout<<"²»ÏàµÈ"<<endl;
+        cout<<"ï¿½ï¿½ï¿½ï¿½ï¿½"<<endl;
     }
     
     // ==, !=, <, <=, >, >=

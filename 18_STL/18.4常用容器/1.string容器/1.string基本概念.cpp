@@ -12,6 +12,4 @@ int main(){
     cout<<sizeof(a)<<endl; //24
     cout<<typeid(a).name()<<endl;   //NSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
     cout<<typeid(a[1]).name()<<endl;  //char
-
-    
 }

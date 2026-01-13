@@ -19,9 +19,6 @@ void test(){
     stack<int> stk3=stk2;  //operator=重载
 }
 
-
-
-
 /*赋值
 1.stack& operator=(const stack &stk)
 */

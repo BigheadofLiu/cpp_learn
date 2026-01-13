@@ -23,4 +23,5 @@ int main(){
     v1.resize(12);cout<<"size="<<v1.size()<<endl;
     v1.resize(20,'c'); //扩容填充
     for_each(v1.begin(),v1.end(),print);
+    
 }
